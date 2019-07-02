@@ -9,4 +9,7 @@
     <color name="rainbow_green">#8eac00</color>
     <color name="rainbow_blue">#127a97</color>
     <color name="rainbow_purple">#452b72</color>
+
+    <color name="colorBackground">#161823</color>
+    <color name="white">#ffffff</color>
 </resources>
